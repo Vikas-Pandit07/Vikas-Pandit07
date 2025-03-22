@@ -1,4 +1,5 @@
-![github-header-image (3)](https://github.com/user-attachments/assets/26193883-c126-4fc4-937b-ee33e585f56e)
+<img src="https://github.com/user-attachments/assets/26193883-c126-4fc4-937b-ee33e585f56e" alt="github-header-image" width="100%" />
+
 
 
 
