@@ -13,11 +13,9 @@
 
 - 🔭 I’m currently working on **Sales Savy**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** **DSA** **AI** **Problem Solving**
 
-- 💬 Ask me about **Java, Web-development**
-
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **There is no fun without coding...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
