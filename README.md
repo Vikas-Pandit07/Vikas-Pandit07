@@ -3,8 +3,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Vikas Pandit</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h1 align="center">Hey 👋, I'm Vikas Pandit</h1>
+<h3 align="center">A passionate Java Enthusiastic </h3>
 <!-- <img align="right" width="400" src="C:\Users\vikas\Downloads\gif.gif" alt="Coding">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-pandit07&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-pandit07" /> </p>
@@ -14,8 +14,7 @@
 - 🔭 I’m currently working on **Full Stack Project Sales Savy**
 
 - 🌱 I’m currently learning **React Native** **DSA** **AI** **Problem Solving**
-
-- ⚡ Fun fact **There is no fun without coding...**
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
