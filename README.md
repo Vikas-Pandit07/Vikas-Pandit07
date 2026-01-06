@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Project Sales Savy**
+- 🔭 I’m currently working on **Full Stack Project AthixWear E-Commerce Platform**
 
-- 🌱 I’m currently learning **React Native** **DSA** **AI** **Problem Solving**
+- 🌱 I’m currently learning  **DSA** **AI** **Problem Solving** **Automation Testing**
 **
 
 <h3 align="left">Connect with me:</h3>
