@@ -67,6 +67,15 @@
 - Admin Dashboard
 - Secure REST APIs
 
+### ViNext Learning Platform
+**Tech Stack:** Java | Spring Boot | React | MySQL  
+**Features:**
+- Authentication (JWT)
+- Course management
+- Enrollment system
+- Learning progress tracking
+- Production-ready deployment
+
 🚧 *Project under active development*
 
 ---
